@@ -1,3 +1,7 @@
+## 1.0.1
+
+- The CurseForge app can now find and update Modifier Glow
+
 ## 1.0.0 - First release
 
 - Lights up action buttons bound with Shift, Ctrl, Alt or two or more modifiers
