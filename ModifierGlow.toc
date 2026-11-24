@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Modifier Glow
+## Notes: While you hold Shift, Ctrl or Alt, lights up the action buttons you can use with that modifier: key bindings such as SHIFT-1 and macros with [mod] conditions. Glows look like Glowing Bars'.|n|nSlash command: /modglow
+## Author: Tom
+## Version: 1.0.0
+## Category: Action Bars
+## IconTexture: Interface\AddOns\ModifierGlow\logo
+## SavedVariables: ModifierGlowDB
+
+Glow.lua
+Core.lua
+Options.lua
